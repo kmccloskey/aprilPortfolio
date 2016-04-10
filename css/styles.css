@@ -1,0 +1,19 @@
+#fullpage {
+	text-align: center;
+	background-color: green;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 44px;
+	font-style: bold;
+	/*font-variant: normal;*/
+	/*font-weight: 500;*/
+	line-height: 26.4px;
+}
+
+.projects {
+	background-color: yellow;
+}
+
+#nav {
+	position: fixed;
+	z-index: 5;
+}
