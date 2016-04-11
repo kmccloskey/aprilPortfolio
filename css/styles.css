@@ -22,6 +22,60 @@
 	background-color: #1F3145;
 }
 
+.project_block_mobile {
+	border: 5px solid white;
+	width: 80%;
+	height: 40%;
+	margin: 0 auto;
+}
+
+.bottom {
+	margin-top: 10%;
+}
+
 #contact {
 	background-color: #5EC8AB;
 }
+
+.project_block_mobile {
+	background-size: cover;
+	background-position: center;
+	overflow: none;
+}
+
+#projects_text {
+	color: white;
+	text-align: center;
+}
+
+#headache_project {
+	background-image: url(../images/headache.png);
+	background-position: left;
+}
+
+#rpsw_project {
+	background-image: url(../images/Wizard.png);
+}
+
+#birderz_project {
+	background-image: url(../images/birderz.png);
+}
+
+#mumblr_project {
+	background-image: url(../images/mumblr.png);
+}
+
+#noise_project {
+	background-image: url(../images/noise.png);
+}
+
+#github_project {
+	background-image: url(../images/github-logo.svg);
+	border: none;
+}
+
+
+
+
+
+
